@@ -14,7 +14,7 @@ labels:
 summary: Analysing and Visualization  of confirmed, recovered and deaths COVID-19 cases in states of India
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/newplot.png">
+<img class="ui image" src="images/newplot.png">
 
 Covid-19 has shown the importance of dashboards and visualization for everyone. Various countries and even states/regions have created their own COVID-19 dashboards to educate people on the pandemic. Visualizing the data for data analysis or sharing the information is very much important while trying to grasp the whole model. The data collection will be from https://api.covid19india.org/csv/latest/state_wise_daily.csv which gives you a daily report of all the states of India.
 
