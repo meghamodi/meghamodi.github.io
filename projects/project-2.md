@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/COVID_rating.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/covid_safety
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-15
 labels:
@@ -14,7 +14,7 @@ labels:
 summary: An app/website/plug-in/add-on where you can give a shop/mall/any other point of interest a rating based on how well the visitors and the staff are following the social distancing norms enforced by the government.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/COVID_rating.png">
 
 An app/website/plug-in/add-on where you can give a shop/mall/any other point of interest a rating based on how well the visitors and the staff are following the social distancing norms enforced by the government. These are essential to prevent the spread of this virus, and also protect yourself from being impacted. Users can rate places from unacceptable to excellent. The users will be the data providers - they will rate the institution, and also the potential customers - checking what social distancing rating the place has. We can come up with simple gamification algorithms (badges, scores, levels) to award users for their efforts. According to studies, social distancing can stretch into late 2021 or even 2022 (~2 years from today).
 
