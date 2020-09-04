@@ -26,7 +26,8 @@ Electrocardiogram (ECG) measures the electrical activity of the heart. Every hea
 For this project, I did the preprocessing, feature extraction, Normalization of EEG,GSR & ECG signals. Preprocessing involved Filtering, noise reduction, channel selection. Feature extraction involved taking features such as Standard Deviation, Maximum, Minimum, MinRatio of the signals in GSR, Spectral Entropy, Mean Signal in EEG signals,Cardiac Stress Index(CSI),proportion of N-N interval/total time segment in ECG. The training and implementation of the model(EEG,ECG,GSR) was also done by me
 
 
-You can learn more at https://github.com/meghamodi/Emotion-Recognition.
+Source: <a href="https://github.com/meghamodi/Emotion-Recognition"><i class="large github icon"></i>Emotion Recognition</a>
+
 
 
 
