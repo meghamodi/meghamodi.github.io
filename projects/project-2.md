@@ -5,7 +5,7 @@ image: images/COVID_rating.png
 title: Covid Safety Measures Enforcement Rating
 permalink: projects/covid_safety
 # All dates must be YYYY-MM-DD format!
-date: 2020-06-15
+date: 2020-06-20
 labels:
   - Python
   - HTML
