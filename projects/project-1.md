@@ -7,10 +7,10 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python
+  - Pandas
+  - Numpy
+summary: My team developed emotion estimation using physiological signals.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,15 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Emotion estimation using physiological signals- EEG(Electroencephalogram), ECG(Electrocardiogram), GSR(Galvanic Skin Respose) using MAHNOB-HCI data by preprocessing, extracting features and Train Machine Learning Models To Classify Emotions into Fear, Disgust, amusement, sadness, neutral.
+Emotion estimation using various sensors is an effective tool. Sensors once attached to our body start tracking the changes in the body. In our report we have done
+analysis on data with the following sensors. Electroencephalogram (EEG) headband has electrodes which pick up and record the electrical activity in brain. The Galvanic Skin Response (GSR) physiological signal holds the body’s secreted response of sweat glands. This GSR signal, as an instruction of skin conductance, comes into being at situations where the skin resistance changes due the contractions and dilations of blood vessels and skin and the sweat gland secretion. The
+Electrocardiogram (ECG) measures the electrical activity of the heart. Every heartbeat is triggered by an electrical signal that’s from top of the heart and travels to bottom.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I did the preprocessing, feature extraction, Normalization of EEG,GSR & ECG signals. Preprocessing involved Filtering, noise reduction, channel selection. Feature extraction involved taking features such as Standard Deviation, Maximum, Minimum, MinRatio of the signals in GSR, Spectral Entropy, Mean Signal in EEG signals,Cardiac Stress Index(CSI),proportion of N-N interval/total time segment in ECG. The training and implementation of the model(EEG,ECG,GSR) was also done by me
 
-Here is some code that illustrates how we read values from the line sensors:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at https://github.com/meghamodi/Emotion-Recognition.
 
 
 
