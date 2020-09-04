@@ -20,4 +20,4 @@ An app/website/plug-in/add-on where you can give a shop/mall/any other point of 
 
 It will help the users assess the risk of visiting a particular place. It will also help them understand the type of precautions they should take when going there. This will also encourage people to go to the risk-prone establishments at off-peak periods if they really don’t have another option.
  
-Source: <a href="https://github.com/meghamodi/COVID_Safety_Ratings"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/meghamodi/COVID_Safety_Ratings"><i class="large github icon"></i>Covid Rating</a>
