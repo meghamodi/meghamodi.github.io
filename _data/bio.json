@@ -101,9 +101,9 @@
       "endDate": "2019-09-01",
       "summary": "",
       "highlights": [
-        "Worked on a methodology to extract relevant keywords using cosine similarity in various types of documents" 
+        "Worked on a methodology to extract relevant keywords using cosine similarity in various types of documents", 
          "for detecting plagiarism.",
-        "Implemented an algorithm to detect and remove bibliographies from research papers for better analysis of the"
+        "Implemented an algorithm to detect and remove bibliographies from research papers for better analysis of the",
          "document using Doc2Vec"
       ]
     },
@@ -115,8 +115,8 @@
       "endDate": "2018-10-01",
       "summary": "",
       "highlights": [
-        "Lead a small team of interns on developing a deep learning model (AlexNet) using our greenhouse images to classify among 16 different plants." 
-        "Monitored collection and annotation of around 1700 images at different plant growth"
+        "Lead a small team of interns on developing a deep learning model (AlexNet) using our greenhouse images to classify among 16 different plants.", 
+        "Monitored collection and annotation of around 1700 images at different plant growth",
         "stages. Test accuracy achieved was around 91%."
       ]
     }
