@@ -1,48 +1,48 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Megha Modi",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://meghamodi.github.io/images/Profile.jpeg",
+    "email": "megha.modi@mavs.uta.edu",
+    "phone": "",
+    "website": "https://meghamodi.github.io",
+    "summary": "I am pursuing Masters in Computer Science at the University of Texas at Arlington. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "76013",
+      "city": "Arlington",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Texas"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "meghamodi",
+        "url": "http://github.com/meghamodi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "modimegha",
+        "url": "https://www.linkedin.com/in/modimegha/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "MeghaModi007",
+        "url": "https://twitter.com/MeghaModi007"
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "medium",
+        "username": "meghamodi007",
+        "url": "https://medium.com/@meghamodi007"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Python",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Flask",
+        "Django"
       ]
     },
     {
@@ -61,12 +61,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Python",
+        "PHP",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        ""
       ]
     },
     {
@@ -76,17 +75,17 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Texas at Arlington, Texas",
+      "area": "Computer Science (expected Spring, 2022)",
+      "studyType": "Masters",
+      "startDate": "2020-01-14",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +94,46 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Netanalytiks Private Limited",
+      "position": "Machine Learning Specialist",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-04-01",
+      "endDate": "2019-09-01",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Worked on a methodology to extract relevant keywords using cosine similarity in various types of documents" 
+         "for detecting plagiarism.",
+        "Implemented an algorithm to detect and remove bibliographies from research papers for better analysis of the"
+         "document using Doc2Vec"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Prakshep Private Limited",
+      "position": "Associate Data Scientist",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2017-09-01",
+      "endDate": "2018-10-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Lead a small team of interns on developing a deep learning model (AlexNet) using our greenhouse images to classify among 16 different plants." 
+        "Monitored collection and annotation of around 1700 images at different plant growth"
+        "stages. Test accuracy achieved was around 91%."
       ]
     }
   ],
+  
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Runner Up",
+      "date": "2020-June",
+      "awarder": "StudentsBuild4COVID19 Hackathon",
+      "summary": "My team won in StudentsBuild4COVID19 Hackathon for developing COVID-SafetyMeasuresEnforcementRating app/website/plugin"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Second place",
+      "date": "2019",
+      "awarder": "NextEra Energy Satellite Hack",
+      "summary": "My team won second place in 2019. We had developed AI-Enabled Digital Electricity Grid."
     }
   ],
   "references": [
