@@ -15,7 +15,7 @@ summary: My team developed emotion estimation using physiological signals.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ECG.png">
-  <img class="ui image" src="../images/EEG.jpg">
+  <img class="ui image" src="../images/ECG_EXG2.png">
 </div>
 
 Emotion estimation using physiological signals- EEG(Electroencephalogram), ECG(Electrocardiogram), GSR(Galvanic Skin Respose) using MAHNOB-HCI data by preprocessing, extracting features and Train Machine Learning Models To Classify Emotions into Fear, Disgust, amusement, sadness, neutral.
