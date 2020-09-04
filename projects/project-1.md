@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/ECG.png
+title: Emotion Estimation
+permalink: projects/emotion_estimation
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-04-28
 labels:
   - Python
   - Pandas
@@ -14,10 +14,8 @@ summary: My team developed emotion estimation using physiological signals.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/ECG.png">
+  <img class="ui image" src="../images/EEG.jpg">
 </div>
 
 Emotion estimation using physiological signals- EEG(Electroencephalogram), ECG(Electrocardiogram), GSR(Galvanic Skin Respose) using MAHNOB-HCI data by preprocessing, extracting features and Train Machine Learning Models To Classify Emotions into Fear, Disgust, amusement, sadness, neutral.
