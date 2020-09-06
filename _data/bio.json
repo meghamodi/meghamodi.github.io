@@ -61,8 +61,7 @@
       "keywords": [
         "Python(Pandas, Numpy, Geopandas, Scikit-Learn)",
         "PHP",
-        "Java",
-        ""
+        "Java"
       ]
     },
     {
@@ -72,8 +71,7 @@
         "Flask",
         "Django",
         "CodeIgnitor",
-        "Bottle",
-        ""
+        "Bottle"
       ]
     },
     {
@@ -84,8 +82,7 @@
         "Ubuntu",
         "Git/GitHub",
         "Windows",
-        "Docker",
-        ""
+        "Docker"
       ]
     },
     {
@@ -97,8 +94,7 @@
         "React",
         "HTML",
         "CSS",
-        "Bootstrap",
-        ""
+        "Bootstrap"
       ]
     },
     {
@@ -107,8 +103,7 @@
       "keywords": [
         "Selenium",
         "Splinter",
-        "BeautifulSoup",
-        ""
+        "BeautifulSoup"
       ]
     },
     {
@@ -117,8 +112,7 @@
       "keywords": [
         "Matplotlib",
         "Seaborn",
-        "Plotly",
-        ""
+        "Plotly"
       ]
     },
     {
@@ -127,8 +121,7 @@
       "keywords": [
         "Geoserver",
         "ArcGIS",
-        "QGIS",
-        ""
+        "QGIS"
       ]
     },
     {
@@ -136,8 +129,7 @@
       "level": "",
       "keywords": [
         "MongoDB",
-        "MySQL",
-        ""
+        "MySQL"
       ]
     },
     {
@@ -145,8 +137,7 @@
       "level": "",
       "keywords": [
         "AWS",
-        "Azure",
-        ""
+        "Azure"
       ]
     },
   ],
@@ -158,7 +149,7 @@
       "startDate": "January-2020",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": ["Web Data Management", "Computer Network", "Human Computer Interaction","Data Mining","Fund Blockchain Cryptocurrency","Data Analysis & Modeling Techniques","Design & Analysis Algorithms"
       ]
     }
   ],
