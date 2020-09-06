@@ -61,7 +61,7 @@
       "keywords": [
         "Python(Pandas, Numpy, Geopandas, Scikit-Learn)",
         "PHP",
-        "Java"
+        "Java",
         ""
       ]
     },
@@ -72,7 +72,7 @@
         "Flask",
         "Django",
         "CodeIgnitor",
-        "Bottle"
+        "Bottle",
         ""
       ]
     },
@@ -84,7 +84,7 @@
         "Ubuntu",
         "Git/GitHub",
         "Windows",
-        "Docker"
+        "Docker",
         ""
       ]
     },
@@ -107,7 +107,7 @@
       "keywords": [
         "Selenium",
         "Splinter",
-        "BeautifulSoup"
+        "BeautifulSoup",
         ""
       ]
     },
@@ -117,7 +117,7 @@
       "keywords": [
         "Matplotlib",
         "Seaborn",
-        "Plotly"
+        "Plotly",
         ""
       ]
     },
@@ -127,7 +127,7 @@
       "keywords": [
         "Geoserver",
         "ArcGIS",
-        "QGIS"
+        "QGIS",
         ""
       ]
     },
@@ -136,7 +136,7 @@
       "level": "",
       "keywords": [
         "MongoDB",
-        "MySQL"
+        "MySQL",
         ""
       ]
     },
@@ -145,7 +145,7 @@
       "level": "",
       "keywords": [
         "AWS",
-        "Azure"
+        "Azure",
         ""
       ]
     },
