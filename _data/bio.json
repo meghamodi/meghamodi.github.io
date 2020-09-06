@@ -6,11 +6,11 @@
     "email": "megha.modi@mavs.uta.edu",
     "phone": "",
     "website": "https://meghamodi.github.io",
-    "summary": "I am pursuing Masters in Computer Science at the University of Texas at Arlington. I expect to graduate in Spring, 2022.",
+    "summary": "I am pursuing Masters in Computer Science at the University of Texas at Arlington. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
       "postalCode": "76013",
-      "city": "Arlington",
+      "city": "Dallas",
       "countryCode": "USA",
       "region": "Texas"
     },
@@ -41,30 +41,38 @@
     {
       "name": "Python",
       "keywords": [
-        "Flask",
-        "Django"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "Python",
+        "Python(Pandas, Numpy, Geopandas, Scikit-Learn)",
         "PHP",
         "Java",
-        "Javascript",
+        ""
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Flask",
+        "Django",
+        "CodeIgnitor",
+        "Bottle",
         ""
       ]
     },
@@ -76,16 +84,78 @@
         "Ubuntu",
         "Git/GitHub",
         "Windows",
+        "Docker",
         ""
       ]
-    }
+    },
+    {
+      "name": "Web Technologies",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "NodeJS",
+        "React",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        ""
+      ]
+    },
+    {
+      "name": "Automation Tools",
+      "level": "",
+      "keywords": [
+        "Selenium",
+        "Splinter",
+        "BeautifulSoup",
+        ""
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": [
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        ""
+      ]
+    },
+    {
+      "name": "GIS Tools",
+      "level": "",
+      "keywords": [
+        "Geoserver",
+        "ArcGIS",
+        "QGIS",
+        ""
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MongoDB",
+        "MySQL",
+        ""
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "Azure",
+        ""
+      ]
+    },
   ],
   "education": [
     {
       "institution": "University of Texas at Arlington, Texas",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science (expected Fall, 2021)",
       "studyType": "Masters",
-      "startDate": "2020-01-14",
+      "startDate": "January-2020",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -97,8 +167,8 @@
       "company": "Netanalytiks Private Limited",
       "position": "Machine Learning Specialist",
       "website": "",
-      "startDate": "2019-04-01",
-      "endDate": "2019-09-01",
+      "startDate": "April-2019",
+      "endDate": "September-2019",
       "summary": "",
       "highlights": [
         "Worked on a methodology to extract relevant keywords using cosine similarity in various types of documents for detecting plagiarism.\nImplemented an algorithm to detect and remove bibliographies from research papers for better analysis of the document using Doc2Vec."
@@ -108,8 +178,8 @@
       "company": "Prakshep Private Limited",
       "position": "Associate Data Scientist",
       "website": "",
-      "startDate": "2017-09-01",
-      "endDate": "2018-10-01",
+      "startDate": "August-2017",
+      "endDate": "October-2018",
       "summary": "",
       "highlights": [
         "Lead a small team of interns on developing a deep learning model (AlexNet) using our greenhouse images to classify among 16 different plants.\nMonitored collection and annotation of around 1700 images at different plant growth stages.Test accuracy achieved was around 91%."
@@ -126,7 +196,7 @@
     },
     {
       "title": "Second place",
-      "date": "2019",
+      "date": "2019-October",
       "awarder": "NextEra Energy Satellite Hack",
       "summary": "My team won second place in 2019. We had developed AI-Enabled Digital Electricity Grid."
     }
