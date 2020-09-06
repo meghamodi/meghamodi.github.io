@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/newplot.png
+image:../images/newplot.png
 title: COVID-19 Visualization
 permalink: projects/covid
 # All dates must be YYYY-MM-DD format!
