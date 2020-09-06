@@ -146,7 +146,7 @@
       "institution": "University of Texas at Arlington, Texas",
       "area": "Computer Science (expected Fall, 2021)",
       "studyType": "Masters",
-      "startDate": "January-2020",
+      "startDate": "Jan-2020",
       "endDate": "Present",
       "gpa": "",
       "courses": ["Web Data Management", "Computer Network", "Human Computer Interaction","Data Mining","Fund Blockchain Cryptocurrency","Data Analysis & Modeling Techniques","Design & Analysis Algorithms"
@@ -158,8 +158,8 @@
       "company": "Netanalytiks Private Limited",
       "position": "Machine Learning Specialist",
       "website": "",
-      "startDate": "April-2019",
-      "endDate": "September-2019",
+      "startDate": "Apr-2019",
+      "endDate": "Sep-2019",
       "summary": "",
       "highlights": [
         "Worked on a methodology to extract relevant keywords using cosine similarity in various types of documents for detecting plagiarism.\nImplemented an algorithm to detect and remove bibliographies from research papers for better analysis of the document using Doc2Vec."
@@ -169,8 +169,8 @@
       "company": "Prakshep Private Limited",
       "position": "Associate Data Scientist",
       "website": "",
-      "startDate": "August-2017",
-      "endDate": "October-2018",
+      "startDate": "Aug-2017",
+      "endDate": "Oct-2018",
       "summary": "",
       "highlights": [
         "Lead a small team of interns on developing a deep learning model (AlexNet) using our greenhouse images to classify among 16 different plants.\nMonitored collection and annotation of around 1700 images at different plant growth stages.Test accuracy achieved was around 91%."
@@ -187,7 +187,7 @@
     },
     {
       "title": "Second place",
-      "date": "October-2019",
+      "date": "Oct-2019",
       "awarder": "NextEra Energy Satellite Hack",
       "summary": "My team won second place in 2019. We had developed AI-Enabled Digital Electricity Grid."
     }
