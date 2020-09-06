@@ -101,7 +101,7 @@
       "endDate": "2019-09-01",
       "summary": "",
       "highlights": [
-        "Worked on a methodology to extract relevant keywords using cosine similarity in various types of documents for detecting plagiarism.\nImplemented an algorithm to detect and remove bibliographies from research papers for better analysis of the document using Doc2Vec"
+        "Worked on a methodology to extract relevant keywords using cosine similarity in various types of documents for detecting plagiarism.\nImplemented an algorithm to detect and remove bibliographies from research papers for better analysis of the document using Doc2Vec."
       ]
     },
     {
