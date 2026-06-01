@@ -28,13 +28,14 @@ const Projects = () => {
 					content={currentSEO.keywords.join(", ")}
 				/>
 			</Helmet>
-
 			<div className="page-content">
 				<NavBar active="projects" />
 				<div className="content-wrapper">
 					<div className="projects-logo">
 						<Logo width={46} />
 					</div>
+
+			
 					
 					<div className="projects-container">
 						<div className="title projects-title">

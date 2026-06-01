@@ -34,7 +34,6 @@ const About = () => {
 				<div className="content-wrapper">
 					<div className="about-logo">
 						<Logo width={46} />
-					
 					</div>
 
 					<div className="about-container">

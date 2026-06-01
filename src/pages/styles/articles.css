@@ -3,7 +3,6 @@
 	justify-content: left;
 	padding-top: 25px;
 }
-
 .articles-logo {
 	position: fixed; /* Make the logo fixed */
     top: 3vh; /* Adjust the vertical position */
@@ -14,7 +13,6 @@
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
     background-color: var(--primary-color); /* Ensure consistent background color */
 }
-
 .articles-main-container {
 	display: flex;
 	flex-direction: column;
