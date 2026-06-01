@@ -2,7 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import {
-	faTwitter,
+	faXTwitter,
 	faGithub,
 	faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
@@ -18,7 +18,7 @@ const Socials = () => {
 				<a href={INFO.socials.twitter} target="_blank" rel="noreferrer">
 					<div className="social-icon">
 						<FontAwesomeIcon
-							icon={faTwitter}
+							icon={faXTwitter}
 							className="social-icon"
 						/>
 					</div>
