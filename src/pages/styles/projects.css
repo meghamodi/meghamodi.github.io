@@ -5,13 +5,14 @@
 }
 
 .projects-logo {
-	display: flex;
-	position: fixed;
-	border: 1px solid white;
-	border-radius: 50%;
-	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
-	top: 4vh;
-	z-index: 999;
+	position: fixed; /* Make the logo fixed */
+    top: 3vh; /* Adjust the vertical position */
+    left: 2%; /* Adjust the horizontal position */
+    z-index: 999; /* Ensure it stays above other elements */
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    background-color: var(--primary-color); /* Ensure consistent background color */
 }
 
 .projects-container {

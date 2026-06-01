@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Software Engineer| Site Reliability Engineer",
+		title: "Software Engineer | Site Reliability Engineer",
 		description:
 			"I am a Software Engineer. I was working as a Senior Software Engineer on the Visa Click to Pay team where I focused on building internal tools and automation to improve the payments infrastructure. I worked on monitoring and reliability solutions using Splunk, Prometheus , grafana.Before Visa I was working as SDE at Amazon Whole Foods  where I was part of meals in store team, I worked extensively with React, enhancing internal dashboards. I also contributed backend features for order management and supported on-call operations.",
 	},
@@ -51,7 +51,7 @@ const INFO = {
 		{
 			title: "Youtube Summarizer",
 			description:
-				"Chrome extension that generates concise summaries of YouTube videos using AI. It provides users with quick insights and key takeaways from video content, enhancing their browsing experience and saving time.",
+				" A chrome extension that generates concise summaries of YouTube videos using AI. It provides users with quick insights and key takeaways from video content, enhancing their browsing experience, saving time and improving content comprehension.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/meghamodi/YoutubeSummarizer",
