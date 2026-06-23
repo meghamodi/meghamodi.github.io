@@ -110,6 +110,11 @@ function article_3() {
 						with Docker and monitor it using Prometheus and Grafana, 
 						while generating traffic with Locust to observe real-time application metrics.
 					</p>
+					<p>
+					In this series, we will learn how to containerize the application with Docker and monitor it using 
+					Prometheus and Grafana, while generating traffic with Locust to observe real-time application metrics.
+					In Part 1, we’ll focus on Dockerizing a full-stack application.
+					</p>
 
 					<p>
 						<a
@@ -145,6 +150,10 @@ function article_4() {
 					<p>
 						This article solves the challenge to find a hidden secret 
 						buried somewhere inside /proc/sys using linux command line tools.
+					</p>
+					<p>
+					If you’ve been following along with the SadServers challenge series, this one is rated easy — 
+					but it’s a great excuse to sharpen your Linux file-searching instincts.
 					</p>
 
 					<p>
