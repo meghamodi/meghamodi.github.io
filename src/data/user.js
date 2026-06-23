@@ -56,6 +56,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/meghamodi/YoutubeSummarizer",
 		},
+		{
+			title: "shell Interpreter",
+			description:
+				" In this challenge, you'll build your own POSIX compliant shell that's capable of interpreting shell commands, running external programs and builtin commands like cd, pwd, echo and more.",
+			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.png",
+			linkText: "View Project",
+			link: "https://github.com/meghamodi/shell-interpreter",
+		},
 	],
 };
 

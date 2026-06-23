@@ -88,6 +88,80 @@ function article_2() {
 	};
 }
 
-const myArticles = [article_1, article_2];
+function article_3() {
+	return {
+		date: "2026",
+		title: "From Code to Container: Dockerizing a Full-Stack App — Part 1",
+		description:
+			"A guide to containerizing the application with Docker and monitor it using Prometheus and Grafana.",
+		keywords: [
+			"SRE",
+			"containerization",
+			"Docker",
+			"Software Engineering",
+			"Megha Modi",
+		],
+		style: ``,
+		body: (
+			<React.Fragment>
+				<div className="article-content">
+					<p>
+						This article explores how how to containerize the application 
+						with Docker and monitor it using Prometheus and Grafana, 
+						while generating traffic with Locust to observe real-time application metrics.
+					</p>
+
+					<p>
+						<a
+							href="https://medium.com/@meghamodi007/from-code-to-container-dockerizing-a-full-stack-app-part-1-c6567ffe1da1"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							Read the full article →
+						</a>
+					</p>
+				</div>
+			</React.Fragment>
+		),
+	};
+}
+
+function article_4() {
+	return {
+		date: "2026",
+		title: "SadServers Series #4 — “Bata”: Find in /proc",
+		description:
+			"A challenge to find a hidden secret buried somewhere inside /proc/sys.",
+		keywords: [
+			"SRE",
+			"Linux",
+			"Grep",
+			"Megha Modi",
+		],
+		style: ``,
+		body: (
+			<React.Fragment>
+				<div className="article-content">
+					<p>
+						This article solves the challenge to find a hidden secret 
+						buried somewhere inside /proc/sys using linux command line tools.
+					</p>
+
+					<p>
+						<a
+							href="https://medium.com/@meghamodi007/sadservers-series-4-bata-find-in-proc-615570bfae1c"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							Read the full article →
+						</a>
+					</p>
+				</div>
+			</React.Fragment>
+		),
+	};
+}
+
+const myArticles = [article_1, article_2, article_3, article_4];
 
 export default myArticles;
